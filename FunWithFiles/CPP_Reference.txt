@@ -1,0 +1,78 @@
+Asm -  invokes the inline assembler and can appear wherever a C or C++ statement is legal
+Auto - indicates automatic storage duration
+Bool - type declaration of two types, true and false
+Break - used to break a loop using the condition expression or conditional statements 
+Case - transfer control to one or several statements
+Catch - associates one ore more exception handlers with a compound statement 
+Char -  type for character representation which can be most efficiently processed on the target system 
+Class - If a function or a variable exists in scope with the name identical to the name of a class type, a class can be prepended to the name for disambiguation
+Const - defines a variable as constant and is not prone to change 
+Const_cast - converts types between types with different cv-qualifications
+Continue - Causes the remaining portion of the enclosing for, while or do-while loop body to be skipped.
+Default - explicitly-defaulted function definition
+Delete - Destroys object(s) previously allocated by the new expression and releases obtained memory area
+Do - executes a statement repeatedly
+Double - double-precision floating-point type 
+Dynamic_cast - Safely converts pointers and references to classes up, down, and sideways along the inheritance hierarchy.
+Else - After a statement has concluded and does not reach the first specification, another statement is executed 
+Enum - An enumeration is a distinct type whose value is restricted to a range of values
+Explicit - contextual converted constant type of bool
+Export - allows the same template to be declared, but not defined in other translation units 
+Extern -  static or thread storage duration and external linkage 
+False - boolean value declaring a value false 
+Float - single-precision floating-point type 
+For - Executes init-statement once, then executes statement and iteration_expression repeatedly, until the value of condition becomes false.
+Friend - The friend declaration appears in a class body and grants a function or another class access to private and protected members of the class where the friend declaration appears.
+Goto - Transfer control unconditionally 
+If - conditionally executes another statement 
+Inline - declare the function to be an inline function
+Int - basic integer type (1 - 9)
+Long - target type will have a width of at least 32 bits 
+Mutable - permits modification of a class member declared mutable even when declared const 
+Namespace - provide a method of preventing name conflicts in large projects 
+New - creates and initializes objects with dynamic storage duration 
+Operator - Customizes the C++ operators for operands of user-defined types.
+Private - In a member-specification of a class/struct or union, define the accessibility of subsequent members.
+Protected - members declared after the specifier have protected member access
+Public - keep their member access in the derived class
+Register - hints the compiler to place the object in the processors’ register 
+Reinterpret_cast - converts between types by reinterpreting the underlying bit pattern
+Return - terminates current function and returns a value  
+Short -  will have a space of 16 bits 
+Signed  - target will have signed representation
+Sizeof - implementation-defined and might differ from 1
+Static - static or thread storage duration and internal linkage
+static_ cast - Converts between types using a combination of implicit and user-defined conversions
+Struct - user-defined type 
+Switch - transfer control to one or more statements 
+Template - entity used to define several objects 
+This - which the member function is being called 
+Throw - signals a condition and executes an error handler 
+True - boolean value type of true 
+Try - associates one or more exception handlers 
+Typedef - creates an alias that can be used anywhere
+Typeid - queries information of a type 
+Typename - can be used as an alternative to class to declare type template parameters and more 
+Union - a special class that can only hold it’s non-static data 
+Unsigned - target will have unsigned representation
+Using - Introduces a name that is defined elsewhere into the declarative region where this using-declaration appears
+Virtual - specifier specifies that a non-static member function is virtual and supports dynamic dispatch
+Void - type with empty set of values 
+Volatile - prone to change s
+Wchar_t -  type for wide-character representation
+While - executes a statement repeatedly until the condition becomes false, the test usually occurs before each iteration. 
+
+Reserved Words:
+And - && 
+And_eq - &=
+Bitand - &
+Bitor - |
+Compl - ~ 
+Not - !
+Not_eq - !=
+Or -  ||
+Or_eq - |=
+Xor -  ^
+Xor_eq - ^= 
+
+

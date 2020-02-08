@@ -1,0 +1,75 @@
+C++ Keywords Defined = 61:
+asm -  invokes the inline assembler and can appear wherever a c or c++ statement is legal
+auto - indicates automatic storage duration
+bool - type declaration of two types, true and false
+break - used to break a loop using the condition expression or conditional statements 
+case - transfer control to one or several statements
+catch - associates one ore more exception handlers with a compound statement 
+char -  type for character representation which can be most efficiently processed on the target system 
+class - if a function or a variable exists in scope with the name identical to the name of a class type, a class can be prepended to the name for disambiguation
+const - defines a variable as constant and is not prone to change 
+const_cast - converts types between types with different cv-qualifications
+continue - causes the remaining portion of the enclosing for, while or do-while loop body to be skipped.
+default - explicitly-defaulted function definition
+delete - destroys object(s) previously allocated by the new expression and releases obtained memory area
+do - executes a statement repeatedly
+double - double-precision floating-point type 
+dynamic_cast - safely converts pointers and references to classes up, down, and sideways along the inheritance hierarchy.
+else - after a statement has concluded and does not reach the first specification, another statement is executed 
+enum - an enumeration is a distinct type whose value is restricted to a range of values
+explicit - contextual converted constant type of bool
+export - allows the same template to be declared, but not defined in other translation units 
+extern -  static or thread storage duration and external linkage 
+false - boolean value declaring a value false 
+float - single-precision floating-point type 
+for - executes init-statement once, then executes statement and iteration_expression repeatedly, until the value of condition becomes false.
+friend - the friend declaration appears in a class body and grants a function or another class access to private and protected members of the class where the friend declaration appears.
+goto - transfer control unconditionally 
+if - conditionally executes another statement 
+inline - declare the function to be an inline function
+int - basic integer type (1 - 9)
+long - target type will have a width of at least 32 bits 
+mutable - permits modification of a class member declared mutable even when declared const 
+namespace - provide a method of preventing name conflicts in large projects 
+new - creates and initializes objects with dynamic storage duration 
+operator - customizes the c++ operators for operands of user-defined types.
+private - in a member-specification of a class/struct or union, define the accessibility of subsequent members.
+protected - members declared after the specifier have protected member access
+public - keep their member access in the derived class
+register - hints the compiler to place the object in the processors’ register 
+reinterpret_cast - converts between types by reinterpreting the underlying bit pattern
+return - terminates current function and returns a value  
+short -  will have a space of 16 bits 
+signed  - target will have signed representation
+sizeof - implementation-defined and might differ from 1
+static - static or thread storage duration and internal linkage
+struct - user-defined type 
+switch - transfer control to one or more statements 
+template - entity used to define several objects 
+this - which the member function is being called 
+throw - signals a condition and executes an error handler 
+true - boolean value type of true 
+try - associates one or more exception handlers 
+typedef - creates an alias that can be used anywhere
+typeid - queries information of a type 
+typename - can be used as an alternative to class to declare type template parameters and more 
+unsigned - target will have unsigned representation
+using - introduces a name that is defined elsewhere into the declarative region where this using-declaration appears
+virtual - specifier specifies that a non-static member function is virtual and supports dynamic dispatch
+void - type with empty set of values 
+volatile - prone to change s
+wchar_t -  type for wide-character representation
+while - executes a statement repeatedly until the condition becomes false, the test usually occurs before each iteration. 
+
+C++ Reserved words Defined = 11:
+and - && 
+and_eq - &=
+bitand - &
+bitor - |
+compl - ~ 
+not - !
+not_eq - !=
+or -  ||
+or_eq - |=
+xor -  ^
+xor_eq - ^= 
